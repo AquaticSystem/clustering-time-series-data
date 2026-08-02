@@ -39,6 +39,10 @@ The source data are not included in this repository. They are available from the
 
 Citation and DOI will be added when the manuscript is published.
 
+## Full database
+
+"Diurnal Turbidity Patterns and Watershed Attributes for USGS Stations Across the Contiguous United States (2010–2023)" dataset is published on Zenodo: link when available.
+
 ## Code authors
 
 Galina Shinkareva and Wondwosen Seyoum.
