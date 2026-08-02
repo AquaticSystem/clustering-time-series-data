@@ -28,8 +28,9 @@ Rscript "get clusters from data.R"
 The script aggregates 15-minute observations to hourly station means, calculates frequency-domain and statistical features, applies k-means clustering, and writes:
 
 - `ElbowPlot.jpeg`
-
+![Sample Elbow Plot](figures/ElbowPlot.jpeg)
 - `mean_turb_by_clusters.jpeg`
+![Sample Mean Turbidity by Cluster Plot](figures/mean_turb_by_clusters.jpeg)
 - `turb_with_clusters.csv`
 
 The source data are not included in this repository. They are available from the [USGS Water Quality Portal](https://www.usgs.gov/tools/water-quality-portal).
